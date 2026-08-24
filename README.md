@@ -1,3 +1,2 @@
- </div>
-  <div align="center">
-    <img src="https://file.garden/aGfS9E9X_j-yMp2I/graphics/june%20ray" width="350px">
+<img src="https://github.com/sunshineboyisleeping/ADrugAgainstWar/blob/main/kmfdm.png" width="500" height="500" />
+" i was denied who i was for a long time. "
