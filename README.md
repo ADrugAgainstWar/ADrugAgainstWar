@@ -4,5 +4,5 @@
    <img src="https://github.com/sunshineboyisleeping/ADrugAgainstWar/blob/main/BULLET.gif" width="50" height="50" />
    cal &nbsp; he&nbsp; / &nbsp; they &nbsp;! 
 
-<img src="https://github.com/sunshineboyisleeping/sunshineboyisleeping/blob/main/dylan%20heart.png width"="200" height="400" />
+<img src="https://github.com/sunshineboyisleeping/sunshineboyisleeping/blob/main/dylan%20heart.png" width="80" height="80" />
   
