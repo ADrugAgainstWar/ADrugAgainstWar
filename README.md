@@ -1,2 +1,4 @@
-![alt image](https://github.com/sunshineboyisleeping/ADrugAgainstWar/blob/e0528cf1aaf1531f0fd1fa16a538ba32c8745657/graves.gif)
-!<img src="https://example.com/image.png" alt="Alt Text" width="400" height="300">
+<p align ="center">
+ <img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.pn](https://github.com/sunshineboyisleeping/ADrugAgainstWar/blob/main/graves.gif
+)g" width="250" height="250" />
+!
